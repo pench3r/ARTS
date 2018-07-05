@@ -155,7 +155,7 @@ use.cpp
 
 - https://www.ibm.com/support/knowledgecenter/ssw_i5_54/rzab6/xafunixsrv.htm （一些demo)
 - http://osr507doc.sco.com/en/netguide/dusockT.datagram_code_samples.html  （一些demo)
-- https://blog.csdn.net/Roland_Sun/article/details/50266565	（了解整额技术的全局）
+- https://blog.csdn.net/Roland_Sun/article/details/50266565	（了解整个技术的全局）
 - http://pubs.opengroup.org/onlinepubs/7908799/xns/connect.html （查看指定API）
 
 这次学习到的技术点为Linux下的IPC的一种方式：unix domain socket，是对于本机不同进程相互通信的一种套接字，但没有经过协议栈因此效率会比网络传输的更快、更稳定也是经常使用的一种IPC方式；
