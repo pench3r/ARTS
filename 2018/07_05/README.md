@@ -1,4 +1,4 @@
-# ARTS 01 #
+# ARTS-WEEK 01 #
 ---
 
 ## Algorithm
